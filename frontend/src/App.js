@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App = ( ) => {      // lambda
   return (<>
     <div class="body_container">
 
